@@ -171,6 +171,28 @@ button {
   margin-top: 20px;
 }
 
+.wordpress {
+  display: flex;
+  margin-top: 110px;
+  margin-left: 460px;
+}
+
+.wordpress-img {
+  height: 40px;
+  width: 40px;
+}
+
+.wordpress-para {
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-top: 12px;
+}
+
+.wordpress-para span {
+  font-weight: 600;
+}
+
 header h3 {
   text-align: center;
   margin-top: 30px;
